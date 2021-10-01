@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#other stuff
+test.wav
+zan-sayonara-zetsubou-sensei-main-theme.mid
